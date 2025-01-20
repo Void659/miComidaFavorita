@@ -8,7 +8,7 @@
 
 ---
 
-Se agrego las siguientes mejores:
+Se agrego las siguientes mejoras:
 - Implementar validaciones para todos los campos
 - Agrego campo de confirmación de contraseña
 - Valido que ambas contraseñas coincidan
